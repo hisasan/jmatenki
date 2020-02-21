@@ -1,0 +1,23 @@
+{
+  "name": "jmatenki",
+  "version": "0.1.0",
+  "description": "Get the weather forecast from the Japan Meteorological Agency website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisasan/jmatenki.git"
+  },
+  "author": "Hisanobu Doi <hisasan@gmail.com> (https://github.com/hisasan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hisasan/jmatenki/issues"
+  },
+  "homepage": "https://github.com/hisasan/jmatenki#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsdom": "^16.2.0"
+  }
+}
