@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hisasan/jmatenki#readme",
   "dependencies": {
-    "axios": "^0.19.2",
-    "jsdom": "^16.2.1"
+    "axios": "^0.21.1",
+    "jsdom": "^16.4.0"
   }
 }
