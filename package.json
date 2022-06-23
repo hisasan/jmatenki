@@ -18,6 +18,6 @@
   "homepage": "https://github.com/hisasan/jmatenki#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "jsdom": "^16.4.0"
+    "jsdom": "^16.5.0"
   }
 }
